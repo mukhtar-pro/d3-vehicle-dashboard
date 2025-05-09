@@ -37,7 +37,7 @@ Ensure the following are installed on your machine:
 
 To set up the application:
 
-1. Clone the repository: `git clone https://gitlab-student.macs.hw.ac.uk/cr2007/f20dv-group-project`. Alternatively, download the ZIP file from the "Code" button.
+1. Clone the repository: `git clone https://github.com/mukhtar-pro/d3-vehicle-dashboard`. Alternatively, download the ZIP file from the "Code" button.
 2. Open the project in Visual Studio Code.
 3. Install the recommended extensions in [`.vscode/extensions.json`](./.vscode/extensions.json). Ensure the Live Server extension is installed.
 4. Open `index.html` and click "**Go Live**" to run the application on a local server.
@@ -46,10 +46,6 @@ To set up the application:
 7. Changes to the code will reflect in the browser in real-time.
 
 ## Architecture
-
-<div align="center">
-  <img src="images/Application_Architecture.png" width="60%"/>
-</div>
 
 The application is a modern data visualization dashboard for electric vehicle data. It uses [D3.js](https://d3js.org/) for creating various types of charts and vanilla JavaScript for data processing and event handling. The application features a sleek dark mode interface and is styled using modern CSS practices.
 
